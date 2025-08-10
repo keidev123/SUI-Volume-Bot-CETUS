@@ -37,7 +37,7 @@ POOL_ID=0x1de5cc16141c21923bfca33db9bb6c604de5760e4498e75ecdfcf80d62fb5818
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/Rabnail-SOL/SUI-Volume-Bot-CETUS.git
+git clone https://github.com/keidev123/SUI-Volume-Bot-CETUS.git
 cd SUI-Volume-Bot-CETUS
 ```
 ### 2. Install dependencies
